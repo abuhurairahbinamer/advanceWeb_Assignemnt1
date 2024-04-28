@@ -1,0 +1,99 @@
+.a1{
+    /* background-color: red; */
+    margin-left: 68%;
+}
+.a0{
+    font-size: 24px;
+}
+
+.a2{
+    margin: 0 5px;
+}
+.a3{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+button{
+    border: none;
+    margin-right: 20px !important;
+    border-radius: 50px !important;
+    padding: 10px !important;
+    font-weight: 600 !important;
+}
+
+.a5{
+    background-color: rgb(28, 121, 28);
+    color: white;
+}
+.a6{
+    background-color: rgb(59, 59, 179);
+}
+
+.a7{
+    margin-left: 10px;
+}
+
+.a8{
+    margin-left: 145px;
+}
+
+.a9{
+    margin-bottom: 10px;
+}
+
+.a10{
+    margin-left: 10px;
+}
+
+.a11{
+    height: 15px;
+    background-color: white;
+    width: 70%;
+    border-radius: 5px;
+}
+.a12{
+    height: 15px;
+    /* background-color: rgb(82, 82, 241); */
+    /* width: 80%; */
+    border-radius: 5px;
+    margin: 0;
+}
+
+.a13{
+    width: 90%;
+    background-color: rgb(82, 82, 241);
+}
+
+.a14{
+    width: 80%;
+    background-color: rgb(82, 82, 241);
+}
+
+.a15{
+    width:65%;
+    background-color: rgb(82, 82, 241);
+}
+
+.a16{
+    margin-bottom: 20px;
+}
+
+
+.a17{
+    width: 60%;
+    background-color: rgb(28, 121, 28);
+}
+
+
+.a18{
+    width: 70%;
+    background-color: rgb(28, 121, 28);
+}
+
+.a19{
+    width: 80%;
+    background-color: rgb(28, 121, 28);
+}
